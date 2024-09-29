@@ -60,6 +60,19 @@ To deepen your understanding of LLMs, we recommend the following research papers
 2. [Langchain Playlist by Codebasics](https://youtube.com/playlist?list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F&si=QMnZ33ofWa8wx3zt)
 3. [Llamaindex playlist by Krish Naik](https://youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy&si=I1zhino7NlwABIr4)
 
+## Retrieval Augmented Generation
+* https://research.ibm.com/blog/retrieval-augmented-generation-RAG
+* https://bradsol.com/resources/blogs/retrieval-augmented-generation-rag-for-llms-a-guide-to-enhanced-accuracy-and-trust/
+* https://www.promptingguide.ai/research/rag
+* https://srk.ai/blog/004-ai-llm-retrieval-eval-llamaindex
+* https://www.llamaindex.ai/blog/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83
+* https://medium.com/@nelson.miranda_40644/training-and-decoding-in-rag-models-bridging-knowledge-and-language-235be2bf4830
+* https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system
+* https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
+* https://www.pinecone.io/learn/vector-database/
+* https://microsoft.github.io/graphrag/
+* https://youtu.be/sVcwVQRHIc8?si=UE6fpSDnGXg1Izct
+
 
 ## Contributing
 
