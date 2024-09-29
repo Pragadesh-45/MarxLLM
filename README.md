@@ -61,17 +61,17 @@ To deepen your understanding of LLMs, we recommend the following research papers
 3. [Llamaindex playlist by Krish Naik](https://youtube.com/playlist?list=PLZoTAELRMXVNOWh1SDXt5NFujQMOt-CWy&si=I1zhino7NlwABIr4)
 
 ## Retrieval Augmented Generation
-* https://research.ibm.com/blog/retrieval-augmented-generation-RAG
-* https://bradsol.com/resources/blogs/retrieval-augmented-generation-rag-for-llms-a-guide-to-enhanced-accuracy-and-trust/
-* https://www.promptingguide.ai/research/rag
-* https://srk.ai/blog/004-ai-llm-retrieval-eval-llamaindex
-* https://www.llamaindex.ai/blog/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83
-* https://medium.com/@nelson.miranda_40644/training-and-decoding-in-rag-models-bridging-knowledge-and-language-235be2bf4830
-* https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system
-* https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/
-* https://www.pinecone.io/learn/vector-database/
-* https://microsoft.github.io/graphrag/
-* https://youtu.be/sVcwVQRHIc8?si=UE6fpSDnGXg1Izct
+1. [IBM Research Blog: Retrieval-Augmented Generation (RAG)](https://research.ibm.com/blog/retrieval-augmented-generation-RAG)
+2. [Brad Sol: Retrieval-Augmented Generation (RAG) for LLMs - A Guide to Enhanced Accuracy and Trust](https://bradsol.com/resources/blogs/retrieval-augmented-generation-rag-for-llms-a-guide-to-enhanced-accuracy-and-trust/)
+3. [Prompting Guide: Retrieval-Augmented Generation](https://www.promptingguide.ai/research/rag)
+4. [srk.ai Blog: Retrieval-Augmented Generation, LLM Evaluation and LlamaIndex](https://srk.ai/blog/004-ai-llm-retrieval-eval-llamaindex)
+5. [LlamaIndex Blog: Boosting RAG - Picking the Best Embedding & Reranker Models](https://www.llamaindex.ai/blog/boosting-rag-picking-the-best-embedding-reranker-models-42d079022e83)
+6. [Medium: Training and Decoding in RAG Models](https://medium.com/@nelson.miranda_40644/training-and-decoding-in-rag-models-bridging-knowledge-and-language-235be2bf4830)
+7. [Galileo: Mastering RAG - How to Architect an Enterprise RAG System](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)
+8. [Microsoft Research Blog: GraphRAG - Unlocking LLM Discovery on Narrative Private Data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+9. [Pinecone: Vector Database Basics](https://www.pinecone.io/learn/vector-database/)
+10. [Microsoft: GraphRAG Documentation](https://microsoft.github.io/graphrag/)
+11. [Learn RAG From Scratch – Python AI Tutorial from a LangChain Engineer](https://youtu.be/sVcwVQRHIc8?si=UE6fpSDnGXg1Izct)
 
 
 ## Contributing
