@@ -8,6 +8,39 @@ This repository aims to guide enthusiasts and professionals in the world of Larg
 2. **LLM Fine-tuning**: Techniques and methodologies to fine-tune pre-existing models to suit specific use-cases. 🎯
 3. **Use-case Benchmarking**: Detailed processes and tools to benchmark LLMs across various use-cases, ensuring optimal performance. 📊
 
+## Table of Contents
+
+1. [Why This Repository?](#why-this-repository)
+2. [Key Features](#key-features)
+3. [Getting Started](#getting-started)
+4. [Research Papers and Resources](#research-papers-and-resources)
+   - [Large Language Models](#large-language-models)
+     - [Research Papers](#research-papers)
+     - [Blogs and Playlists](#blogs-and-playlists)
+     - [Tools to build applications using LLMs](#tools-to-build-applications-using-llms)
+   - [Retrieval Augmented Generation](#retrieval-augmented-generation)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Stay Updated](#stay-updated)
+
+## Why This Repository?
+
+Large Language Models are revolutionizing numerous fields, from natural language processing to AI-driven applications. However, navigating the complexities of building, fine-tuning, and benchmarking these models can be challenging. This open-source repository is designed to simplify these processes and provide a centralized hub for all related resources.
+
+## Key Features
+
+- **Comprehensive Guides**: Detailed documentation to help you get started with building and fine-tuning LLMs.
+- **Benchmarking Tools**: Scripts and tools to benchmark the performance of your models across various use-cases.
+- **Community Support**: Join our community of developers and researchers to share insights, ask questions, and collaborate on projects.
+
+## Getting Started
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Pragadesh-45/MarxLLM.git
+   cd MarxLLM
+   ```
+
 ## Why This Repository?
 
 Large Language Models are revolutionizing numerous fields, from natural language processing to AI-driven applications. However, navigating the complexities of building, fine-tuning, and benchmarking these models can be challenging. This open-source repository is designed to simplify these processes and provide a centralized hub for all related resources.
@@ -85,7 +118,4 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](https://g
 ## Stay Updated
 
 Follow us on [GitHub](https://github.com/Pragadesh-45/MarxLLM) to stay updated on the latest developments and releases.
-
----
-
 Feel free to add more research papers, resources, or links that you find useful. Let's build a comprehensive knowledge base together!
